@@ -31,11 +31,11 @@ Merge: It helps unify items from one branch into the current branch
 
 Merge Conflict: When git can't automatically fix the differences in code between two commits
 
-Push: you are able to get hte branch's head from a repository to see if it is related to the local branch red 
+Push: you are able to get hte branch's head from a repository to see if it is related to the local branch ref, if it is all attributes and thos missing will be put into a remote database 
 
-Pull:
+Pull: This is when you are able to fetch from the branch and merge it
 
-Remote
+Remote: would mean online , but remote repository is a ref where you can use the changes from another repository 
 
-Repository
+Repository: This is a group of ref depending on the object database, and they can share an object database with other repositories  
 
